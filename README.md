@@ -1,4 +1,6 @@
 # MinecraftAimTrainerReleases
+Mod is made for 1.8.9 forge (hopefully works for all new versions)
+
 Download the MouseDelayFix mod, and pick a version above (newest probably best) and download the mod file and the example scenarios if you want.
  
 Play in a creative world (cheats on to be safe) that you aren't afraid of damaging.
